@@ -2,8 +2,8 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 import json
 data = [
     {
-        "name": "sam larry",
-        "track": "AI Developer"
+        "name": "blessing david",
+        "track": "mobile Developer"
     }
 ]
 
@@ -35,3 +35,14 @@ def run():
 
 print("APPLIcation is running")
 run()
+
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import json
+
+data = [
+    {
+        "name": "blessing david",
+        "track": "mobile Developer"
+    }
+]
+
